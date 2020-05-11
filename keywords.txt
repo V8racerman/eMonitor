@@ -1,0 +1,10 @@
+# Filename
+acd_eMonitor	KEYWORD1
+
+# Datatypes
+ACDeMonitor	KEYWORD1
+
+# Methods / functions
+rms_calc	KEYWORD2
+
+# Constants
